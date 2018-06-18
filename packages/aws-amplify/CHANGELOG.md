@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="0.4.5-unstable.0"></a>
+## 0.4.5-unstable.0 (2018-06-18)
+
+
+### Bug Fixes
+
+* **API:** query string for non signed requests ([#801](https://github.com/aws/aws-amplify/issues/801)) ([6746368](https://github.com/aws/aws-amplify/commit/6746368))
+* **aws-amplify:** Fix missing ServiceWorker export ([acbf754](https://github.com/aws/aws-amplify/commit/acbf754))
+* **Storage:** allowing to set an empty value as prefix for the S3 Key ([#931](https://github.com/aws/aws-amplify/issues/931)) ([240e50b](https://github.com/aws/aws-amplify/commit/240e50b))
+
+
+### Features
+
+* Add ServiceWorker utility class ([#831](https://github.com/aws/aws-amplify/issues/831)) ([2fd46e3](https://github.com/aws/aws-amplify/commit/2fd46e3))
+* **interactions:** Interactions category ([#1042](https://github.com/aws/aws-amplify/issues/1042)) ([befb336](https://github.com/aws/aws-amplify/commit/befb336))
+
+
+
+<a name="0.2.0"></a>
+# 0.2.0 (2018-02-01)
+
+
+
+<a name="0.1.35"></a>
+## 0.1.35 (2018-01-17)
+
+
+
+
 <a name="0.4.2-unstable.45"></a>
 ## [0.4.2-unstable.45](https://github.com/aws/aws-amplify/compare/aws-amplify@0.4.2-unstable.44...aws-amplify@0.4.2-unstable.45) (2018-06-18)
 
